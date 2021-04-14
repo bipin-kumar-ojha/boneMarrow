@@ -1,0 +1,595 @@
+.banner {
+    background: url(../images/banner.png);
+    width: 100%;
+    height: 540px;
+
+    h4 {
+        color: #ffffff;
+        font-family: Titillium;
+        font-size: 31px;
+        letter-spacing: 1.28px;
+        line-height: 40px;
+        width: 622px;
+        text-align: left;
+        padding-top: 65px;
+    }
+    p {
+        color: #ffffff;
+        font-family: StagSans;
+        font-size: 25px;
+        letter-spacing: 3.59px;
+        line-height: 34px;
+        width: 599px;
+        text-align: left;
+    }
+    .rectangle {
+        background-color: #dd5a6a;
+        border-radius: 3.2px;
+        width: 186px;
+        height: 45px;
+        color: #ffffff;
+        font-family: Arial;
+        font-size: 14.4px;
+        line-height: 17px;
+        text-align: center;
+        border: none;
+        outline: none;
+    }
+    .banner-form {
+        background-color: #ffffff;
+        box-shadow: -4px 2px 13px 0 rgba(85, 95, 126, 0.18);
+        width: 359px;
+        height: 492px;
+        margin: 23px 0px 0px 0px;
+        position: relative;
+        left: 34%;
+        padding: 30px;
+        h5 {
+            color: #213559;
+            font-family: StagSans;
+            font-size: 20.08px;
+            line-height: 24px;
+            width: 127px;
+            text-align: left;
+            margin: 3px 0px 25px 0px;
+        }
+        form {
+            input {
+                width: 100%;
+                height: 42px;
+                margin-bottom: 5px;
+                border: 1px solid #d0d0d0;
+                padding:0px 0px 0px 12px;
+            }
+            textarea {
+                width: 100%;
+                height: 72px;
+                margin-bottom: 5px;
+                border: 1px solid #d0d0d0;
+            }
+            button {
+                background-color: #dd5a6a;
+                width: 111px;
+                height: 44px;
+                color: #ffffff;
+                font-family: StagSans;
+                font-size: 14.84px;
+                line-height: 18px;
+                text-align: center;
+                border: none;
+                outline: none;
+                margin: 20px 0px 0px 0px;
+            }
+        }
+    }
+}
+.aster-logo-white {
+    padding-top: 30px;
+}
+.body-sect {
+    padding-top: 70px;
+    .rect-box {
+        background: #6078ea;
+        border-radius: 4px;
+        width: 586px;
+        // height: 95px;
+        padding: 10px;
+        margin: 20px 0px 25px 0px;
+
+        p {
+            color: #ffffff;
+            font-family: StagSans;
+            font-size: 18px;
+            line-height: 26px;
+            width: 545px;
+            text-align: left;
+            margin-bottom: 0;
+        }
+    }
+    .replacement-of-disea {
+        color: #000000;
+        font-family: StagSans;
+        font-size: 17px;
+        line-height: 20px;
+        width: 532px;
+        text-align: left;
+        margin-bottom: 25px;
+    }
+    .medicines-and-in-cer {
+        color: #000000;
+        font-family: StagSans;
+        font-size: 17px;
+        line-height: 20px;
+        width: 623px;
+        text-align: left;
+        margin-bottom: 25px;
+    }
+    .in-autologous-bone-m {
+        color: #000000;
+        font-family: StagSans;
+        font-size: 17px;
+        line-height: 20px;
+        width: 605px;
+        text-align: left;
+        margin-bottom: 25px;
+    }
+    .left-img img {
+        width: 100%;
+    }
+    .doctors {
+        margin: 50px 0px 0px 0px;
+        h4 {
+            color: #22b78e;
+            font-family: StagSans;
+            font-size: 31px;
+            letter-spacing: 1.28px;
+            line-height: 44px;
+            text-align: left;
+        }
+        .profile-box {
+            background-color: #f9f9ff;
+            border-radius: 4px;
+            width: 539px;
+            height: 1064px;
+
+            .doctor-profile {
+                padding: 25px 10px 25px 10px;
+                h4 {
+                    color: #22b78e;
+                    font-family: StagSans;
+                    font-size: 24px;
+                    letter-spacing: 0.99px;
+                    line-height: 44px;
+                    text-align: center;
+                }
+                .desc {
+                    color: #000000;
+                    font-family: StagSans;
+                    font-size: 15px;
+                    line-height: 20px;
+                    width: 423px;
+                    text-align: center;
+                }
+                .dr-title {
+                    color: #1d5aa6;
+                    font-family: StagSans;
+                    font-size: 22px;
+                    letter-spacing: 1.76px;
+                    line-height: 26px;
+                    text-align: center;
+                    margin-top: 25px;
+                }
+                .dr-degree {
+                    color: #1d5aa6;
+                    font-family: StagSans;
+                    font-size: 15px;
+                    letter-spacing: 1.2px;
+                    // line-height: 15px;
+                    text-align: center;
+                }
+                .knw_more {
+                    background: #17ead9;
+                    border-radius: 4px;
+                    width: 129px;
+                    height: 49px;
+                    color: #ffffff;
+                    font-family: StagSans;
+                    font-size: 15px;
+                    letter-spacing: 1px;
+                    line-height: 18px;
+                    text-align: center;
+                    outline: none;
+                    border: none;
+                }
+                .line-border {
+                    border: 1px solid #ececff;
+                    width: 415px;
+                    height: 2px;
+                    margin: 50px 0px 28px 0px;
+                }
+            }
+        }
+    }
+    .types {
+        h3 {
+            color: #22b78e;
+            font-family: StagSans;
+            font-size: 31px;
+            letter-spacing: 1.28px;
+            line-height: 44px;
+            text-align: left;
+            padding: 70px 0px 25px 0px;
+        }
+        ul {
+            padding: 0;
+        }
+        ul li {
+            list-style: none;
+            background: url(../images/plus-icon.png);
+            background-repeat: no-repeat;
+            padding: 0px 0px 15px 31px;
+            display: flex;
+        }
+        .serviceBox {
+            background-color: #ffffff;
+            border: 1px solid #e5eaff;
+            border-radius: 4px;
+            box-shadow: 3px 5px 29px 0 rgba(187, 165, 228, 0.1);
+            width: 255px;
+            height: 170px;
+            margin-bottom: 25px;
+            padding: 23px;
+            p {
+                position: absolute;
+                top: 40%;
+                width: 75%;
+                font-size: 16px;
+            }
+        }
+    }
+    .faq {
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        .accordion {
+            width: 100%;
+            margin: 30px auto 20px;
+            -webkit-border-radius: 4px;
+            -moz-border-radius: 4px;
+            border-radius: 4px;
+        }
+
+        .accordion .link {
+            cursor: pointer;
+            display: block;
+            padding: 15px 15px 15px 5px;
+            color: #1d5aa6;
+            font-size: 20px;
+            font-weight: 700;
+            letter-spacing: 1.6px;
+            position: relative;
+            -webkit-transition: all 0.4s ease;
+            -o-transition: all 0.4s ease;
+            transition: all 0.4s ease;
+
+            .fa-caret-down {
+                float: right;
+                color: #1d5aa6;
+                font-size: 24px;
+            }
+        }
+
+        .accordion li:last-child .link {
+            border-bottom: 0;
+        }
+
+        .accordion li i {
+            position: absolute;
+            top: 16px;
+            left: 12px;
+            font-size: 18px;
+            color: #595959;
+            -webkit-transition: all 0.4s ease;
+            -o-transition: all 0.4s ease;
+            transition: all 0.4s ease;
+        }
+
+        .accordion li i.fa-chevron-down {
+            right: 12px;
+            left: auto;
+            font-size: 16px;
+        }
+
+        .accordion li.open .link {
+            color: #b63b4d;
+        }
+
+        .accordion li.open i {
+            color: #b63b4d;
+        }
+
+        .accordion li.open i.fa-chevron-down {
+            -webkit-transform: rotate(180deg);
+            -ms-transform: rotate(180deg);
+            -o-transform: rotate(180deg);
+            transform: rotate(180deg);
+        }
+
+        .submenu {
+            display: none;
+            font-size: 14px;
+        }
+        .submenu li {
+            margin-bottom: 15px;
+        }
+        .submenu a {
+            display: block;
+            text-decoration: none;
+            color: #000;
+            padding: 12px;
+            padding-left: 0px;
+            -webkit-transition: all 0.25s ease;
+            -o-transition: all 0.25s ease;
+            transition: all 0.25s ease;
+        }
+    }
+    .testimonial {
+        margin-top: 2%;
+        .testi-btn {
+            background-color: #004498;
+            border-radius: 3.81px;
+            width: 221px;
+            height: 54px;
+            border: none;
+            outline: none;
+            margin: 45px 0px 50px 0px;
+            color: #ffffff;
+            font-family: Arial;
+            font-size: 17.14px;
+            line-height: 21px;
+            text-align: center;
+        }
+        h4 {
+            color: #22b78e;
+            font-family: StagSans;
+            font-size: 31px;
+            letter-spacing: 1.28px;
+            line-height: 44px;
+            text-align: left;
+        }
+        p {
+            color: #000000;
+            font-family: StagSans;
+            font-size: 15px;
+            line-height: 21px;
+            width: 80%;
+            text-align: left;
+        }
+        .owl-nav {
+            position: absolute;
+            top: -56px;
+            right: 0;
+        }
+        .owl-nav button {
+            outline: none;
+            padding: 3.5px !important;
+        }
+
+        .carousel-wrap {
+            margin: 0;
+            padding: 35px 0%;
+            width: 100%;
+            position: relative;
+        }
+        .owl-carousel .item {
+            position: relative;
+            z-index: 100;
+
+            .item-bx {
+                background-color: #ffffff;
+                background: url(../images/testi-colone.png);
+                background-repeat: no-repeat;
+                background-position: right;
+                background-position-y: 0px;
+                border-radius: 4px;
+                box-shadow: 7px 2px 15px 3px rgb(0 0 0 / 4%);
+                // width: 517px;
+                height: 249px;
+                padding: 35px;
+
+                ul {
+                    padding: 0;
+                }
+                ul li {
+                    list-style: none;
+                    display: inline-block;
+                }
+            }
+            // -webkit-backface-visibility: hidden;
+        }
+        .owl-nav > div {
+            margin-top: -26px;
+            position: absolute;
+            top: 50%;
+            color: #cdcbcd;
+        }
+
+        .owl-nav i {
+            font-size: 52px;
+        }
+
+        .owl-nav .owl-prev {
+            left: -30px;
+        }
+
+        .owl-nav .owl-next {
+            right: -30px;
+        }
+    }
+}
+footer {
+    background: #272727;
+    height: 256px;
+    ul {
+        padding: 53px 0px 40px 0px;
+    }
+    ul li {
+        list-style: none;
+        display: inline-block;
+    }
+    p {
+        color: #ffffff;
+        font-family: StagSans;
+        font-size: 14px;
+        letter-spacing: 1.12px;
+        line-height: 17px;
+        text-align: left;
+        text-align: center;
+    }
+}
+
+//Media Query Start
+
+$breakpoint-tablet: 768px;
+$mediumSize: 425px;
+$smallSize: 375px;
+$xsmallSize: 320px;
+@media screen and (max-width: $breakpoint-tablet) {
+    .banner {
+        .rectangle {
+            margin: 43px 0px 45px 0px;
+        }
+        h4 {
+            width: 100%;
+            font-size: 22px;
+            letter-spacing: 1.28px;
+            line-height: 30px;
+        }
+        p {
+            width: 100%;
+            font-size: 11px;
+        }
+        .banner-form {
+            left: 0%;
+            margin-bottom: 5%;
+            width: 100%;
+        }
+    }
+    .container {
+        overflow-x: hidden;
+    }
+    .body-sect {
+        margin-top: 100%;
+        .rect-box,
+        .replacement-of-disea,
+        .medicines-and-in-cer,
+        .in-autologous-bone-m {
+            width: 100%;
+        }
+        .rect-box p {
+            width: 100%;
+        }
+        .faq {
+            .accordion {
+                padding: 0;
+                .link {
+                    padding: 15px 15px 15px 0px;
+                    font-size: 14px;
+                    letter-spacing: 1.6px;
+                }
+            }
+            .submenu {
+                padding: 0;
+            }
+        }
+        .doctors {
+            .profile-box {
+                width: 100%;
+                height: auto;
+                .doctor-profile {
+                    .desc {
+                        width: 100%;
+                    }
+                    .line-border {
+                        width: 90%;
+                    }
+                }
+            }
+        }
+        .types {
+            h3 {
+                font-size: 27px;
+                letter-spacing: 1.28px;
+                line-height: 30px;
+                text-align: left;
+                padding: 50px 0px 25px 0px;
+            }
+            .serviceBox {
+                width: 100%;
+                height: 190px;
+                
+            }
+        }
+    }
+}
+@media screen and (max-width: $smallSize) {
+    .banner {
+        h4 {
+            width: 100%;
+        }
+        p {
+            width: 100%;
+        }
+        .banner-form {
+            left: 0%;
+            margin-bottom: 5%;
+            width: 100%;
+        }
+    }
+    .container {
+        overflow-x: hidden;
+    }
+    .body-sect {
+        margin-top: 130%;
+        .rect-box,
+        .replacement-of-disea,
+        .medicines-and-in-cer,
+        .in-autologous-bone-m {
+            width: 100%;
+        }
+        .faq {
+            .accordion {
+                padding: 0;
+                .link {
+                    padding: 15px 15px 15px 0px;
+                    font-size: 14px;
+                    letter-spacing: 1.6px;
+                }
+            }
+            .submenu {
+                padding: 0;
+            }
+        }
+        .doctors {
+            .profile-box {
+                width: 100%;
+                height: auto;
+                .doctor-profile {
+                    .desc {
+                        width: 100%;
+                    }
+                    .line-border {
+                        width: 90%;
+                    }
+                }
+            }
+        }
+        .types {
+            .serviceBox {
+                width: 100%;
+                height: 190px;
+            }
+        }
+    }
+}
